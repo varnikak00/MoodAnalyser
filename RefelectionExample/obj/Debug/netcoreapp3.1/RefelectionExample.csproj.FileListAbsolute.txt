@@ -1,0 +1,14 @@
+D:\MoodAnalyZer\RefelectionExample\bin\Debug\netcoreapp3.1\RefelectionExample.exe
+D:\MoodAnalyZer\RefelectionExample\bin\Debug\netcoreapp3.1\RefelectionExample.deps.json
+D:\MoodAnalyZer\RefelectionExample\bin\Debug\netcoreapp3.1\RefelectionExample.runtimeconfig.json
+D:\MoodAnalyZer\RefelectionExample\bin\Debug\netcoreapp3.1\RefelectionExample.runtimeconfig.dev.json
+D:\MoodAnalyZer\RefelectionExample\bin\Debug\netcoreapp3.1\RefelectionExample.dll
+D:\MoodAnalyZer\RefelectionExample\bin\Debug\netcoreapp3.1\RefelectionExample.pdb
+D:\MoodAnalyZer\RefelectionExample\obj\Debug\netcoreapp3.1\RefelectionExample.csproj.AssemblyReference.cache
+D:\MoodAnalyZer\RefelectionExample\obj\Debug\netcoreapp3.1\RefelectionExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\MoodAnalyZer\RefelectionExample\obj\Debug\netcoreapp3.1\RefelectionExample.AssemblyInfoInputs.cache
+D:\MoodAnalyZer\RefelectionExample\obj\Debug\netcoreapp3.1\RefelectionExample.AssemblyInfo.cs
+D:\MoodAnalyZer\RefelectionExample\obj\Debug\netcoreapp3.1\RefelectionExample.csproj.CoreCompileInputs.cache
+D:\MoodAnalyZer\RefelectionExample\obj\Debug\netcoreapp3.1\RefelectionExample.dll
+D:\MoodAnalyZer\RefelectionExample\obj\Debug\netcoreapp3.1\RefelectionExample.pdb
+D:\MoodAnalyZer\RefelectionExample\obj\Debug\netcoreapp3.1\RefelectionExample.genruntimeconfig.cache

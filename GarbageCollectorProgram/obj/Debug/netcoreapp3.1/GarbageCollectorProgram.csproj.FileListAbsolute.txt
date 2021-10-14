@@ -1,0 +1,14 @@
+D:\MoodAnalyZer\GarbageCollectorProgram\bin\Debug\netcoreapp3.1\GarbageCollectorProgram.exe
+D:\MoodAnalyZer\GarbageCollectorProgram\bin\Debug\netcoreapp3.1\GarbageCollectorProgram.deps.json
+D:\MoodAnalyZer\GarbageCollectorProgram\bin\Debug\netcoreapp3.1\GarbageCollectorProgram.runtimeconfig.json
+D:\MoodAnalyZer\GarbageCollectorProgram\bin\Debug\netcoreapp3.1\GarbageCollectorProgram.runtimeconfig.dev.json
+D:\MoodAnalyZer\GarbageCollectorProgram\bin\Debug\netcoreapp3.1\GarbageCollectorProgram.dll
+D:\MoodAnalyZer\GarbageCollectorProgram\bin\Debug\netcoreapp3.1\GarbageCollectorProgram.pdb
+D:\MoodAnalyZer\GarbageCollectorProgram\obj\Debug\netcoreapp3.1\GarbageCollectorProgram.csproj.AssemblyReference.cache
+D:\MoodAnalyZer\GarbageCollectorProgram\obj\Debug\netcoreapp3.1\GarbageCollectorProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\MoodAnalyZer\GarbageCollectorProgram\obj\Debug\netcoreapp3.1\GarbageCollectorProgram.AssemblyInfoInputs.cache
+D:\MoodAnalyZer\GarbageCollectorProgram\obj\Debug\netcoreapp3.1\GarbageCollectorProgram.AssemblyInfo.cs
+D:\MoodAnalyZer\GarbageCollectorProgram\obj\Debug\netcoreapp3.1\GarbageCollectorProgram.csproj.CoreCompileInputs.cache
+D:\MoodAnalyZer\GarbageCollectorProgram\obj\Debug\netcoreapp3.1\GarbageCollectorProgram.dll
+D:\MoodAnalyZer\GarbageCollectorProgram\obj\Debug\netcoreapp3.1\GarbageCollectorProgram.pdb
+D:\MoodAnalyZer\GarbageCollectorProgram\obj\Debug\netcoreapp3.1\GarbageCollectorProgram.genruntimeconfig.cache

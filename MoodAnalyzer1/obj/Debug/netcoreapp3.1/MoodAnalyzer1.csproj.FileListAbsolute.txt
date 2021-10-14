@@ -1,0 +1,14 @@
+D:\MoodAnalyZer\MoodAnalyzer1\bin\Debug\netcoreapp3.1\MoodAnalyzer1.exe
+D:\MoodAnalyZer\MoodAnalyzer1\bin\Debug\netcoreapp3.1\MoodAnalyzer1.deps.json
+D:\MoodAnalyZer\MoodAnalyzer1\bin\Debug\netcoreapp3.1\MoodAnalyzer1.runtimeconfig.json
+D:\MoodAnalyZer\MoodAnalyzer1\bin\Debug\netcoreapp3.1\MoodAnalyzer1.runtimeconfig.dev.json
+D:\MoodAnalyZer\MoodAnalyzer1\bin\Debug\netcoreapp3.1\MoodAnalyzer1.dll
+D:\MoodAnalyZer\MoodAnalyzer1\bin\Debug\netcoreapp3.1\MoodAnalyzer1.pdb
+D:\MoodAnalyZer\MoodAnalyzer1\obj\Debug\netcoreapp3.1\MoodAnalyzer1.csproj.AssemblyReference.cache
+D:\MoodAnalyZer\MoodAnalyzer1\obj\Debug\netcoreapp3.1\MoodAnalyzer1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MoodAnalyZer\MoodAnalyzer1\obj\Debug\netcoreapp3.1\MoodAnalyzer1.AssemblyInfoInputs.cache
+D:\MoodAnalyZer\MoodAnalyzer1\obj\Debug\netcoreapp3.1\MoodAnalyzer1.AssemblyInfo.cs
+D:\MoodAnalyZer\MoodAnalyzer1\obj\Debug\netcoreapp3.1\MoodAnalyzer1.csproj.CoreCompileInputs.cache
+D:\MoodAnalyZer\MoodAnalyzer1\obj\Debug\netcoreapp3.1\MoodAnalyzer1.dll
+D:\MoodAnalyZer\MoodAnalyzer1\obj\Debug\netcoreapp3.1\MoodAnalyzer1.pdb
+D:\MoodAnalyZer\MoodAnalyzer1\obj\Debug\netcoreapp3.1\MoodAnalyzer1.genruntimeconfig.cache

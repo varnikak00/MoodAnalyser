@@ -1,0 +1,14 @@
+D:\MoodAnalyZer\MoodAnlaAnlayser2\bin\Debug\netcoreapp3.1\MoodAnlaAnlayser2.exe
+D:\MoodAnalyZer\MoodAnlaAnlayser2\bin\Debug\netcoreapp3.1\MoodAnlaAnlayser2.deps.json
+D:\MoodAnalyZer\MoodAnlaAnlayser2\bin\Debug\netcoreapp3.1\MoodAnlaAnlayser2.runtimeconfig.json
+D:\MoodAnalyZer\MoodAnlaAnlayser2\bin\Debug\netcoreapp3.1\MoodAnlaAnlayser2.runtimeconfig.dev.json
+D:\MoodAnalyZer\MoodAnlaAnlayser2\bin\Debug\netcoreapp3.1\MoodAnlaAnlayser2.dll
+D:\MoodAnalyZer\MoodAnlaAnlayser2\bin\Debug\netcoreapp3.1\MoodAnlaAnlayser2.pdb
+D:\MoodAnalyZer\MoodAnlaAnlayser2\obj\Debug\netcoreapp3.1\MoodAnlaAnlayser2.csproj.AssemblyReference.cache
+D:\MoodAnalyZer\MoodAnlaAnlayser2\obj\Debug\netcoreapp3.1\MoodAnlaAnlayser2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MoodAnalyZer\MoodAnlaAnlayser2\obj\Debug\netcoreapp3.1\MoodAnlaAnlayser2.AssemblyInfoInputs.cache
+D:\MoodAnalyZer\MoodAnlaAnlayser2\obj\Debug\netcoreapp3.1\MoodAnlaAnlayser2.AssemblyInfo.cs
+D:\MoodAnalyZer\MoodAnlaAnlayser2\obj\Debug\netcoreapp3.1\MoodAnlaAnlayser2.csproj.CoreCompileInputs.cache
+D:\MoodAnalyZer\MoodAnlaAnlayser2\obj\Debug\netcoreapp3.1\MoodAnlaAnlayser2.dll
+D:\MoodAnalyZer\MoodAnlaAnlayser2\obj\Debug\netcoreapp3.1\MoodAnlaAnlayser2.pdb
+D:\MoodAnalyZer\MoodAnlaAnlayser2\obj\Debug\netcoreapp3.1\MoodAnlaAnlayser2.genruntimeconfig.cache
